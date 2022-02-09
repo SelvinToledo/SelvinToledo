@@ -1,4 +1,4 @@
-
+![](https://images.cooltext.com/5582467.png)
 Hola a todos, soy estudiante en Ing. en Sistemas, me gusta aprender diferentes idiomas de programación
 así como la interaccion, desarrollo y mantenimiento de bases de datos. Soy egresado del Cobach
 Tijuana Siglo XXI, con un certificado en informatica.

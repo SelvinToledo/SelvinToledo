@@ -18,12 +18,12 @@ Proyectos en marcha:
 Actualmente mi horario universitario es:
 | Horario          | Materia                       | Días            |
 |------------------|-------------------------------|-----------------|
-| 1:00 - 2:00 p.m. | Admón. de Base de Datos       | Lunes - Viernes |
-| 2:00 - 3:00 p.m. | Ing. de Software              | Lunes - Viernes |
-| 3:00 - 4:00 p.m. | Lenguajes y Automatas 1       | Lunes - Viernes |
-| 4:00 - 5:00 p.m. | Lenguajes de Interfaz         | Lunes - Jueves  |
-| 5:00 - 6:00 p.m. | Taller de Sistemas Operativos | Lunes - Jueves  |
-| 6:00 - 7:00 p.m. | Redes de Computadora          | Lunes - Viernes |
+| 1:00 - 2:00 p.m. | Taller de Inv. 1              | Lunes - Jueves  |
+| 2:00 - 3:00 p.m. | Gestión de Proy.  de Software | Lunes - Viernes |
+| 3:00 - 4:00 p.m. | Progra. Lógica y Funcional    | Lunes - Viernes |
+| 4:00 - 5:00 p.m. | Lenguajes y Automatas II      | Lunes - Viernes |
+| 5:00 - 6:00 p.m. | Redes                         | Lunes - Viernes |
+| 6:00 - 7:00 p.m. | Sistemas Programables         | Lunes - Jueves  |
 
 <!--
 **SelvinToledo/SelvinToledo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

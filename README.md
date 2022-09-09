@@ -7,12 +7,13 @@ Tijuana Siglo XXI, con un certificado en informatica.
 
 Lenguajes de programación y softwares:
 - C#
+- C++
 - Python
 - Microsoft SQL server
+- MYSQL
 
 Proyectos en marcha:
-- Me encuentro colaborando en una pagina web en la Universidad UABC.
-- Colaboro en el Backend de un grupo de estudiantes de sistemas llamado TrivalDevs.
+- Colaboracion de una app Mobile con fines educativos.
 
 Actualmente mi horario universitario es:
 | Horario          | Materia                       | Días            |
